@@ -58,3 +58,6 @@ Designed a clean and user-friendly HR dashboard in Power BI.
 
 ## 📷 Dashboard Preview
 [HR Dashboard](https://github.com/taniya528/HR-Analytics-Dashboard/blob/main/HR%20Dashboard.png)
+
+## Author
+## Taniya Sahu
