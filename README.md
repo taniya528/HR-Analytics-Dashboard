@@ -52,6 +52,9 @@ Analyzed employee experience groups and workforce distribution.
 Created interactive filters for better HR analysis.
 
 Designed a clean and user-friendly HR dashboard in Power BI.
-
+ 
 
 ## #PowerBI #HRAnalytics #DataAnalytics #Dashboard #BusinessIntelligence
+
+## 📷 Dashboard Preview
+[HR Dashboard](https://github.com/taniya528/HR-Analytics-Dashboard/blob/main/HR%20Dashboard.png)
